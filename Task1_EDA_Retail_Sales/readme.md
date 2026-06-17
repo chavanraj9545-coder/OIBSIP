@@ -38,7 +38,7 @@ The dataset used is the Superstore Sales dataset, containing 9,800 records of re
 3. Run each cell in order from top to bottom.
 
 ## Author
-[Your Name] — Data Analytics Intern, Oasis Infobyte
+Pruthviraj Vikas Chavan — Data Analytics Intern, Oasis Infobyte
 
 ## Acknowledgment
 This project was completed as part of the Oasis Infobyte Data Analytics Internship Program (OIBSIP).
